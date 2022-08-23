@@ -1,0 +1,61 @@
+/*------------------
+This is donate-today-main all css code
+----------------------------*/
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*-----------------
+head all css code
+---------------------*/
+
+.header {
+    background-image: url(../images/banner\ top.png);
+    position: absolute;
+    width: 1330px;
+    height: 670px;
+    background-repeat: no-repeat;
+    color: azure;
+    text-align: center;
+
+}
+
+.header-content {
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    left: 308px;
+    top: 174px;
+    text-align: center;
+}
+
+.top-caracter {
+    font-size: 65px;
+}
+
+.description {
+    font-size: 18px;
+}
+
+
+.donate-button {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 16px 12px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    gap: 8px;
+}
+
+/*-----------------
+finish head all css code
+---------------------*/
+
+
+/*-----------------
+start donate today 
+---------------------*/
