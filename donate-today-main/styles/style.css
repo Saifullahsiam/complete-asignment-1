@@ -155,3 +155,53 @@ donate amount
 /*-----------------
 End donate-today section
 ---------------------*/
+
+
+
+/*-----------------
+start our donate plan
+---------------------*/
+
+.donate-list {
+    display: flex;
+    gap: 20px;
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+
+#donate-item {
+    width: 360px;
+    height: 352px;
+    border-radius: 5px;
+
+
+}
+
+.food {
+    background-color: rgba(79, 157, 166, 0.1);
+
+}
+
+
+.shelter {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.education {
+    background-color: bisque;
+}
+
+
+
+.item-content {
+    width: 315px;
+    height: 153px;
+    margin-top: 70px;
+    margin-left: 23px;
+}
+
+
+/*-----------------
+End our donate plan
+---------------------*/
