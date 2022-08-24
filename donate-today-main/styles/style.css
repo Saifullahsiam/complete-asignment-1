@@ -15,7 +15,7 @@ head all css code
 
 .header {
     background-image: url(../images/banner\ top.png);
-    position: absolute;
+    position: relative;
     width: 1330px;
     height: 670px;
     background-repeat: no-repeat;
@@ -28,17 +28,21 @@ head all css code
     position: absolute;
     width: 826px;
     height: 320px;
-    left: 308px;
-    top: 174px;
-    text-align: center;
+    left: 280px;
+    top: 100px;
+
+
 }
 
 .top-caracter {
     font-size: 65px;
+    line-height: 79px;
+    text-align: center;
 }
 
 .description {
     font-size: 18px;
+    margin-top: -20px;
 }
 
 
@@ -48,7 +52,6 @@ head all css code
     padding: 16px 12px;
     background-color: #FF5959;
     border-radius: 5px;
-    gap: 8px;
 }
 
 /*-----------------
@@ -56,6 +59,99 @@ finish head all css code
 ---------------------*/
 
 
+
+
 /*-----------------
 start donate today 
+---------------------*/
+
+
+
+.donate-carecter {
+    text-align: center;
+    width: 651px;
+    height: 150px;
+    padding-top: 60px;
+    padding-left: 330px;
+
+}
+
+.donate-header {
+    font-size: 45px;
+
+}
+
+.donate-paragraph {
+    font-size: 18px;
+    margin-top: -30px;
+}
+
+
+
+/*-----------------
+donate amount 
+---------------------*/
+
+.donate-amount {
+    display: flex;
+    padding-left: 300px;
+    text-align: center;
+    padding-top: 80px;
+    column-gap: 20px;
+
+
+}
+
+#donate-number {
+    text-decoration: none;
+    color: gray;
+    background: #FAFAFA;
+    border-radius: 5px;
+    width: 135px;
+    height: 123px;
+    font-size: 30px;
+
+}
+
+#taka {
+    text-decoration: none;
+}
+
+
+
+.donate-para {
+    font-size: 18px;
+    text-align: center;
+    color: #B3B3B3;
+
+}
+
+.line {
+
+    width: 765px;
+    height: 0px;
+    margin-left: 300px;
+    top: 1199.5px;
+    border: 1px solid #DADADA;
+    margin-top: -5px;
+}
+
+
+
+
+
+
+.other {
+    padding-top: 40px;
+
+}
+
+#two-donate {
+    margin-top: 200px;
+    margin-left: 600px;
+}
+
+
+/*-----------------
+End donate-today section
 ---------------------*/
