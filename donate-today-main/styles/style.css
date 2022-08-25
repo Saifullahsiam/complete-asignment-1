@@ -205,3 +205,113 @@ start our donate plan
 /*-----------------
 End our donate plan
 ---------------------*/
+
+
+
+
+/*-----------------
+start depend-donation
+---------------------*/
+
+
+.depend-donation {
+    display: flex;
+    margin-top: 100px;
+}
+
+.contribute-button {
+    padding: 16px 12px;
+    text-decoration: none;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+.donation-content {
+    width: 493px;
+    height: 374px;
+    margin-left: 110px;
+}
+
+.donation-content {
+    font-size: 22px;
+}
+
+.donation-header {
+    font-size: 45px;
+    line-height: 54px;
+
+}
+
+
+.donation-parragraph {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+.donation-img {
+    margin-left: 90px;
+    width: 445px;
+    height: 477px;
+
+}
+
+/*-----------------
+End depend-donation
+---------------------*/
+
+
+
+
+/*-----------------
+start survive secton
+---------------------*/
+
+
+.survive {
+    display: flex;
+}
+
+
+/*-----------------
+End survive secton
+---------------------*/
+
+
+
+
+
+/*-----------------
+End survive secton
+---------------------*/
+
+.updates {
+    text-align: center;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/*-----------------
+start footer tag
+---------------------*/
+
+footer {
+
+    height: 177px;
+    color: #DADADA;
+    background: #0B0D17;
+    text-align: center;
+}
