@@ -283,21 +283,66 @@ End survive secton
 
 
 /*-----------------
-End survive secton
+start updates secton
 ---------------------*/
 
-.updates {
+
+
+.get-my {
+    width: 691px;
+    height: 130px;
     text-align: center;
+    margin-left: 355px;
+    margin-top: 101px;
+
+}
 
 
+.email-subscription {
+    width: 809px;
+    height: 200px;
+    margin-left: 300px;
+    margin-top: 60px;
+    background-color: #FFF4D6;
+    text-align: center;
+}
 
+.mail {
+
+    width: 275px;
+    height: 48px;
+    background-color: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
 
 
 }
 
 
 
+.subscribe {
+    position: relative;
+    padding: 16px 12px;
+    margin-left: -5px;
+    color: #FAFAFA;
+    background-color: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    text-decoration: none;
 
+}
+
+
+.add-mail {
+    padding-top: 75px;
+}
+
+
+
+
+
+
+/*-----------------
+End updates section
+---------------------*/
 
 
 
@@ -309,9 +354,46 @@ start footer tag
 ---------------------*/
 
 footer {
-
+    margin-top: 100px;
     height: 177px;
     color: #DADADA;
     background: #0B0D17;
     text-align: center;
 }
+
+
+.humble {
+    padding-top: 50px;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FF5959;
+    font-family: 'Lobster';
+}
+
+
+
+.gonna {
+    margin-top: -20px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+
+}
+
+.center {
+
+    text-align: center;
+}
+
+
+/*-----------------
+end footer tag
+---------------------*/
+
+
+
+/*-----------------
+End this all css code for ths website
+---------------------*/
