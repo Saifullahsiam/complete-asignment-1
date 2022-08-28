@@ -14,13 +14,15 @@ head all css code
 ---------------------*/
 
 .header {
-    background-image: url(../images/banner\ top.png);
+
     position: relative;
     width: 1330px;
     height: 670px;
     background-repeat: no-repeat;
     color: azure;
     text-align: center;
+    background: linear-gradient(360deg, #121212 -0.97%, rgba(18, 18, 18, 0) 99.03%),
+        url(../images/banner\ top.png);
 
 }
 
@@ -41,8 +43,11 @@ head all css code
 }
 
 .description {
+    width: 691px;
+    height: 56px;
     font-size: 18px;
     margin-top: -20px;
+    margin-left: 20px;
 }
 
 
@@ -52,6 +57,7 @@ head all css code
     padding: 16px 12px;
     background-color: #FF5959;
     border-radius: 5px;
+    margin-left: -70px;
 }
 
 /*-----------------
@@ -126,16 +132,17 @@ donate amount
 
 }
 
-.line {
 
-    width: 765px;
-    height: 0px;
-    margin-left: 300px;
-    top: 1199.5px;
-    border: 1px solid #DADADA;
-    margin-top: -5px;
+
+#other-amount {
+
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: gainsboro;
+    text-align: center;
+    margin-left: 350px;
+    padding: 2px 200px;
 }
-
 
 
 
@@ -143,6 +150,7 @@ donate amount
 
 .other {
     padding-top: 40px;
+
 
 }
 
@@ -371,7 +379,7 @@ start footer tag
 ---------------------*/
 
 footer {
-    margin-top: 350px;
+    margin-top: 450px;
     height: 177px;
     color: #DADADA;
     background: #0B0D17;
